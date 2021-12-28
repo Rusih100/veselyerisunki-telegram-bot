@@ -1,7 +1,7 @@
 import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-bot = telebot.TeleBot('TOKEN')
+bot = telebot.TeleBot('TOKEN TELEGRAM')
 
 bot_command_dict = {
     "/start": "Запуск бота",
